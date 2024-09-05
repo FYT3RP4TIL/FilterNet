@@ -1,4 +1,4 @@
-# 📧 FilterNet : Pinpoint Spam Detection
+# 📧 FilterNet : Pinpoint Email Spam Detection
 
 ## 🔍 Overview
 FilterNet is an advanced machine learning project designed to classify email messages as either spam or ham (non-spam). Utilizing state-of-the-art Natural Language Processing (NLP) techniques and a Naive Bayes classifier, FilterNet provides a robust solution for email filtering.
